@@ -1,26 +1,5 @@
-Affirmations App - Solution Code
+NAMA & NIM ( ANDRI HERMAWAN - 415522110083)
 ================================
+HASIL
 
-Solution code for the Android Basics with Compose: Affirmations app.
-
-
-Introduction
-------------
-The Affirmations app contains a scrollable list of 10 cards.
-
-
-Pre-requisites
---------------
-* Familiarity with Lists in Kotlin
-* Experience building layouts with Jetpack Compose
-* Experience running apps on a device or emulator
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
-
-All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
+![image](https://github.com/anarchivx/Affirmations/assets/164122405/e4c8248b-c45c-4d9e-8d5c-7957fbec80da)
